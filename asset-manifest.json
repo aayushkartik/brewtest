@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/brewtest/static/css/main.5d19a749.chunk.css",
-    "main.js": "/brewtest/static/js/main.62f5ec99.chunk.js",
-    "main.js.map": "/brewtest/static/js/main.62f5ec99.chunk.js.map",
-    "runtime~main.js": "/brewtest/static/js/runtime~main.e1707a15.js",
-    "runtime~main.js.map": "/brewtest/static/js/runtime~main.e1707a15.js.map",
-    "static/js/2.c233d815.chunk.js": "/brewtest/static/js/2.c233d815.chunk.js",
-    "static/js/2.c233d815.chunk.js.map": "/brewtest/static/js/2.c233d815.chunk.js.map",
-    "static/js/3.06a4cbf0.chunk.js": "/brewtest/static/js/3.06a4cbf0.chunk.js",
-    "static/js/3.06a4cbf0.chunk.js.map": "/brewtest/static/js/3.06a4cbf0.chunk.js.map",
-    "index.html": "/brewtest/index.html",
-    "precache-manifest.352a5c0a03d28cd153b303553a7744da.js": "/brewtest/precache-manifest.352a5c0a03d28cd153b303553a7744da.js",
-    "service-worker.js": "/brewtest/service-worker.js",
-    "static/css/main.5d19a749.chunk.css.map": "/brewtest/static/css/main.5d19a749.chunk.css.map",
-    "static/media/register.css": "/brewtest/static/media/wallpaper.a5fdee19.png"
+    "main.css": "/brewtest/home/static/css/main.d320be80.chunk.css",
+    "main.js": "/brewtest/home/static/js/main.62f5ec99.chunk.js",
+    "main.js.map": "/brewtest/home/static/js/main.62f5ec99.chunk.js.map",
+    "runtime~main.js": "/brewtest/home/static/js/runtime~main.07f6c0d1.js",
+    "runtime~main.js.map": "/brewtest/home/static/js/runtime~main.07f6c0d1.js.map",
+    "static/js/2.c233d815.chunk.js": "/brewtest/home/static/js/2.c233d815.chunk.js",
+    "static/js/2.c233d815.chunk.js.map": "/brewtest/home/static/js/2.c233d815.chunk.js.map",
+    "static/js/3.06a4cbf0.chunk.js": "/brewtest/home/static/js/3.06a4cbf0.chunk.js",
+    "static/js/3.06a4cbf0.chunk.js.map": "/brewtest/home/static/js/3.06a4cbf0.chunk.js.map",
+    "index.html": "/brewtest/home/index.html",
+    "precache-manifest.b8f0140fabf4844b93a765682d2e4b9b.js": "/brewtest/home/precache-manifest.b8f0140fabf4844b93a765682d2e4b9b.js",
+    "service-worker.js": "/brewtest/home/service-worker.js",
+    "static/css/main.d320be80.chunk.css.map": "/brewtest/home/static/css/main.d320be80.chunk.css.map",
+    "static/media/register.css": "/brewtest/home/static/media/wallpaper.a5fdee19.png"
   }
 }

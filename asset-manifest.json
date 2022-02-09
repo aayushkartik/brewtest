@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/brewtest/static/css/main.5d19a749.chunk.css",
+    "main.js": "/brewtest/static/js/main.62f5ec99.chunk.js",
+    "main.js.map": "/brewtest/static/js/main.62f5ec99.chunk.js.map",
+    "runtime~main.js": "/brewtest/static/js/runtime~main.e1707a15.js",
+    "runtime~main.js.map": "/brewtest/static/js/runtime~main.e1707a15.js.map",
+    "static/js/2.c233d815.chunk.js": "/brewtest/static/js/2.c233d815.chunk.js",
+    "static/js/2.c233d815.chunk.js.map": "/brewtest/static/js/2.c233d815.chunk.js.map",
+    "static/js/3.06a4cbf0.chunk.js": "/brewtest/static/js/3.06a4cbf0.chunk.js",
+    "static/js/3.06a4cbf0.chunk.js.map": "/brewtest/static/js/3.06a4cbf0.chunk.js.map",
+    "index.html": "/brewtest/index.html",
+    "precache-manifest.352a5c0a03d28cd153b303553a7744da.js": "/brewtest/precache-manifest.352a5c0a03d28cd153b303553a7744da.js",
+    "service-worker.js": "/brewtest/service-worker.js",
+    "static/css/main.5d19a749.chunk.css.map": "/brewtest/static/css/main.5d19a749.chunk.css.map",
+    "static/media/register.css": "/brewtest/static/media/wallpaper.a5fdee19.png"
+  }
+}
